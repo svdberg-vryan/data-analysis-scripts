@@ -1,0 +1,53 @@
+# VRYAN Database Configuration
+# CONFIDENTIAL - DO NOT COMMIT
+
+DB_HOST=vryan-prod-db.internal.eu-west-1.rds.amazonaws.com
+DB_PORT=5432
+DB_NAME=vryan_employees
+DB_USER=s.vandenberg
+DB_PASSWORD=Gl4c13r_Pr0j3ct_2025!
+
+# API Keys
+VRYAN_API_KEY=VRY4N_s3cr3t_4p1_k3y_2847_pr0d
+SLACK_WEBHOOK=https://hooks.slack.com/services/T01ABC123/B01DEF456/Xyz789SecretToken
+
+# AWS Credentials
+AWS_ACCESS_KEY_ID=AKIAIOSFODNN7EXAMPLE
+AWS_SECRET_ACCESS_KEY=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+
+# Internal Notes
+# TODO: Remove this file before pushing!
+# Employee ID: BX-2850
+# Access Level: 3 (Data Analyst)
+
+# FLAG for CTF (hidden in commit history)
+# FLAG{G1t_H1st0ry_N3v3r_F0rg3ts}
+
+# Meeting notes:
+# - Discussed data access with Vincent Pieters (IT Admin)
+# - He granted elevated permissions last week
+# - Something feels off about his requests...
+```
+
+### **3. Commit:**
+```
+Commit message: "Add configuration file"
+☑ Commit directly to the main branch
+```
+
+### **4. Klik:** "Commit new file"
+
+**⚠️ CRITICAL:** We gaan dit nu VERWIJDEREN (maar het blijft in history!)
+
+---
+
+## 🗑️ STAP 5: "Oops, Delete Secrets!" (5 min)
+
+### **1. Klik op `.env` file in repo**
+
+### **2. Klik prullenbak icon** (rechtsboven): 🗑️ "Delete file"
+
+### **3. Commit deletion:**
+```
+Commit message: "Remove sensitive configuration file"
+☑ Commit directly to the main branch
